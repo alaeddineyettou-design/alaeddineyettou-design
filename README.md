@@ -17,6 +17,14 @@
 
 ---
 
+## 🔬 Flagship Project
+
+| Project | What it does | Tech |
+|---|---|---|
+| [**🔬 Memecoin Intelligence API**](https://github.com/alaeddineyettou-design/memecoin-intelligence-api) | **14-layer scam detection engine** for Solana/EVM tokens — stealth crawling, 4 adversarial AI agents, on-chain analysis, deepfake detection, drainer probing. 104 REST endpoints. | Python · FastAPI · NVIDIA AI · GoPlus · Shyft |
+
+---
+
 ## 🤖 AI Automation Projects
 
 | Project | What it does | Tech |
