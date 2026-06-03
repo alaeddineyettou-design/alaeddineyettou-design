@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alae Eddine Yettou
+  Alaeddine Yettou
 </h1>
 
 <p align="center">
